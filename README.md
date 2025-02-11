@@ -1,4 +1,4 @@
-# 1CS-TP Repository 📚💻
+# 2CS-TP Repository 📚💻
 
 
 This repository contains selected practical work (TP) for the **2CS** level [2024/2025].It includes various TPs throughout the course. 🎓
